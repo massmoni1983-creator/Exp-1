@@ -27,7 +27,7 @@ Step 3: System Design Draw UML diagrams to represent the system: Use Case Diagra
 <img width="1231" height="890" alt="Screenshot 2026-11-03 104111" src="https://github.com/user-attachments/assets/9850e95d-9826-4763-8bb6-0b325d8fb2e4" />
 
 # SEQUENCE DIAGRAM  
-<img width="1237" height="892" alt="Screenshot 2026-11-03 104230" src="https://github.com/user-attachments/assets/a611f694-ea43-4f0f-bb11-9ad669a008c9" />
+<img width="1236" height="891" alt="Screenshot 2026-11-03 105359" src="https://github.com/user-attachments/assets/49a0b877-2707-49ec-912b-06676a535b5a" />
 
 # PACKAGE DIAGRAM
 <img width="1235" height="890" alt="Screenshot 2026-11-03 104436" src="https://github.com/user-attachments/assets/5c26e271-ea25-4adf-bec2-f2c9fba9ceee" />
